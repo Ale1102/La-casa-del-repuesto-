@@ -1,0 +1,148 @@
+[2025-04-14 13:14:10] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 13:14:10] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 13:14:10] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 13:14:15] [error] ParseError: Unterminated comment starting line 351 in C:\wamp64\www\la-casa-del-repuesto\src\controllers\CategoriaController.php on line 351
+#0 {main}
+[2025-04-14 13:21:57] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 13:21:57] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 13:21:57] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 13:21:58] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 13:21:58] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 13:21:58] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 13:24:54] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 13:24:54] [error] Error: Call to undefined function isLoggedIn() in C:\wamp64\www\la-casa-del-repuesto\index.php on line 32
+#0 {main}
+[2025-04-14 13:24:56] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 13:24:56] [error] Error: Call to undefined function isLoggedIn() in C:\wamp64\www\la-casa-del-repuesto\index.php on line 32
+#0 {main}
+[2025-04-14 13:24:57] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 13:24:57] [error] Error: Call to undefined function isLoggedIn() in C:\wamp64\www\la-casa-del-repuesto\index.php on line 32
+#0 {main}
+[2025-04-14 13:24:57] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 13:24:57] [error] Error: Call to undefined function isLoggedIn() in C:\wamp64\www\la-casa-del-repuesto\index.php on line 32
+#0 {main}
+[2025-04-14 14:02:35] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:02:35] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:02:35] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:03:20] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:03:20] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:03:20] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:03:27] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:03:27] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:03:27] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:09:29] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:09:29] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:09:29] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:25:20] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:25:20] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:25:20] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:33:32] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:33:32] [error] Error: Call to undefined function isLoggedIn() in C:\wamp64\www\la-casa-del-repuesto\index.php on line 32
+#0 {main}
+[2025-04-14 14:33:33] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:33:33] [error] Error: Call to undefined function isLoggedIn() in C:\wamp64\www\la-casa-del-repuesto\index.php on line 32
+#0 {main}
+[2025-04-14 14:35:59] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:35:59] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:35:59] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:40:22] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:40:22] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:40:22] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:44:09] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:44:09] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:44:09] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(64): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:44:15] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:44:15] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:44:15] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:44:39] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:44:39] [error] Error [2]: require_once(./config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:44:39] [error] Error: Failed opening required './config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:44:40] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:44:40] [error] Error [2]: require_once(./config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:44:40] [error] Error: Failed opening required './config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:45:09] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:45:09] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:45:09] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:45:43] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-14 14:45:43] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:45:43] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:46:11] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 14:46:11] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+[2025-04-14 14:46:11] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:49:45] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 14:49:45] [error] Error [2]: require_once(../models/Usuario.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+[2025-04-14 14:49:45] [error] Error: Failed opening required '../models/Usuario.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:49:51] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 14:49:51] [error] Error [2]: require_once(../models/Usuario.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+[2025-04-14 14:49:51] [error] Error: Failed opening required '../models/Usuario.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:49:52] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 14:49:52] [error] Error [2]: require_once(../models/Usuario.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+[2025-04-14 14:49:52] [error] Error: Failed opening required '../models/Usuario.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:49:53] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 14:49:53] [error] Error [2]: require_once(../models/Usuario.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+[2025-04-14 14:49:53] [error] Error: Failed opening required '../models/Usuario.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 14:50:05] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 14:50:05] [error] Error [2]: require_once(../models/Usuario.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+[2025-04-14 14:50:05] [error] Error: Failed opening required '../models/Usuario.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(50): UsuarioController->__construct()
+#1 {main}
+[2025-04-14 15:12:25] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 15:12:25] [error] Error [2]: require_once(../config/database.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\ProductoController.php on line 14
+[2025-04-14 15:12:25] [error] Error: Failed opening required '../config/database.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\ProductoController.php on line 14
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(49): ProductoController->__construct()
+#1 {main}
+[2025-04-14 15:12:58] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 15:12:58] [error] Error: Class "Producto" not found in C:\wamp64\www\la-casa-del-repuesto\src\controllers\ProductoController.php on line 19
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(49): ProductoController->__construct()
+#1 {main}
+[2025-04-14 16:11:25] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 16:11:25] [error] Error: Class "Producto" not found in C:\wamp64\www\la-casa-del-repuesto\src\controllers\ProductoController.php on line 19
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(60): ProductoController->__construct()
+#1 {main}
+[2025-04-14 16:17:32] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/test.php
+[2025-04-14 16:17:32] [error] Error [2]: require_once(../models/Usuario.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+[2025-04-14 16:17:32] [error] Error: Failed opening required '../models/Usuario.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(72): UsuarioController->__construct()
+#1 {main}

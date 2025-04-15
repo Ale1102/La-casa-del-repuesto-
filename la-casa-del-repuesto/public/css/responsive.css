@@ -1,0 +1,137 @@
+/* Estilos responsivos para La Casa del Repuesto */
+
+/* Tablets */
+@media (max-width: 992px) {
+    .container {
+        padding: 0 20px;
+    }
+    
+    .hero-banner h1 {
+        font-size: 48px;
+    }
+    
+    .hero-banner p {
+        font-size: 20px;
+    }
+    
+    .categories-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .products-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Móviles grandes */
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column;
+    }
+    
+    .logo {
+        margin-bottom: 10px;
+    }
+    
+    .search-bar {
+        width: 100%;
+        margin: 10px 0;
+    }
+    
+    .nav-links {
+        width: 100%;
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+    
+    .main-nav ul {
+        flex-wrap: wrap;
+    }
+    
+    .main-nav li {
+        margin: 5px 10px;
+    }
+    
+    .hero-banner {
+        padding: 30px 0;
+    }
+    
+    .hero-banner h1 {
+        font-size: 36px;
+    }
+    
+    .hero-banner p {
+        font-size: 18px;
+    }
+    
+    .categories-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .products-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .product-detail {
+        grid-template-columns: 1fr;
+    }
+    
+    .cart-table thead {
+        display: none;
+    }
+    
+    .cart-table, .cart-table tbody, .cart-table tr, .cart-table td {
+        display: block;
+        width: 100%;
+    }
+    
+    .cart-table tr {
+        margin-bottom: 20px;
+        border: 1px solid var(--light-gray);
+        border-radius: 4px;
+    }
+    
+    .cart-table td {
+        text-align: right;
+        padding-left: 50%;
+        position: relative;
+    }
+    
+    .cart-table td:before {
+        content: attr(data-label);
+        position: absolute;
+        left: 15px;
+        font-weight: bold;
+    }
+    
+    .cart-product {
+        justify-content: flex-end;
+    }
+    
+    .footer-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Móviles pequeños */
+@media (max-width: 480px) {
+    .hero-banner h1 {
+        font-size: 28px;
+    }
+    
+    .hero-banner p {
+        font-size: 16px;
+    }
+    
+    .section-title {
+        font-size: 28px;
+    }
+    
+    .categories-grid, .products-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .form-row {
+        flex-direction: column;
+    }
+}

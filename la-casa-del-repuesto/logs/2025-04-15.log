@@ -1,0 +1,7 @@
+[2025-04-15 12:16:08] [error] ParseError: Unmatched '}' in C:\wamp64\www\la-casa-del-repuesto\src\controllers\ProductoController.php on line 26
+#0 {main}
+[2025-04-15 12:36:54] [info] Aplicación iniciada. URI: /la-casa-del-repuesto/
+[2025-04-15 12:36:54] [error] Error [2]: require_once(../models/Usuario.php): Failed to open stream: No such file or directory in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+[2025-04-15 12:36:54] [error] Error: Failed opening required '../models/Usuario.php' (include_path='.;C:\php\pear') in C:\wamp64\www\la-casa-del-repuesto\src\controllers\UsuarioController.php on line 15
+#0 C:\wamp64\www\la-casa-del-repuesto\index.php(67): UsuarioController->__construct()
+#1 {main}
